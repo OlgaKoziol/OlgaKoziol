@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### I'm an AGH University of Science and Technology student 
+### link do strony: https://github.com/OlgaKoziol/OlgaKoziol.github.io
 <!--
 **OlgaKoziol/OlgaKoziol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
