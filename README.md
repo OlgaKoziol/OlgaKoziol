@@ -2,6 +2,9 @@
 
 ### I'm an AGH University of Science and Technology student 
 ### link do strony: https://github.com/OlgaKoziol/OlgaKoziol.github.io
+
+### link do forka: https://github.com/OlgaKoziol/point-e.git
+### link do artykułu: https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point#code
 <!--
 **OlgaKoziol/OlgaKoziol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
